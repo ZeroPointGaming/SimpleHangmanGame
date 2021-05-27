@@ -1,0 +1,10 @@
+E:\VS Projects\Hangman\Hangman\bin\Release\Hangman.exe.config
+E:\VS Projects\Hangman\Hangman\bin\Release\Hangman.exe
+E:\VS Projects\Hangman\Hangman\bin\Release\Hangman.pdb
+E:\VS Projects\Hangman\Hangman\bin\Release\Hangman.xml
+E:\VS Projects\Hangman\Hangman\obj\Release\Hangman.Form1.resources
+E:\VS Projects\Hangman\Hangman\obj\Release\Hangman.Resources.resources
+E:\VS Projects\Hangman\Hangman\obj\Release\Hangman.vbproj.GenerateResource.Cache
+E:\VS Projects\Hangman\Hangman\obj\Release\Hangman.exe
+E:\VS Projects\Hangman\Hangman\obj\Release\Hangman.xml
+E:\VS Projects\Hangman\Hangman\obj\Release\Hangman.pdb
